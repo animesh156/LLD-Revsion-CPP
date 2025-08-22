@@ -1,5 +1,9 @@
 // Single Responsibility Principle :- every class should have a single responsibility or single job or single purpose
 
+// If a class has at least one pure virtual function, it’s called an Abstract Class.
+
+// If it has only pure virtual functions, we usually call it an Interface (C++ style).
+
 #include <iostream>
 #include <string>
 
